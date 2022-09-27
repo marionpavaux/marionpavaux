@@ -2,6 +2,8 @@
 
 I am Marion and on this page you will find some research and programmation projects I made during my schooling. Don't hesitate to have a look around and I hope you can find it useful ! 
 
+(Content still needs to be added in most repositories) 
+
 #### Programmation repositories : 
 <ul> 
   <li> Little RNN : Training recurrent neural networks to study and control motor execution (yet private)</li>
