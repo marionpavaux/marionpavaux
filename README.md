@@ -10,6 +10,7 @@ I am Marion and on this page you will find some research and programmation proje
   <li> Classifying sleep stages with the Start-up Dream</li>
   <li> Monitor patient transport activity in a hospital with AI </li>
   <li> Segmentation of white masses using image processing </li>
+  <li> Three High Performance Computing projects</li>
 </ul>
 
 #### Research repositories : 
