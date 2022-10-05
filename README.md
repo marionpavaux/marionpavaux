@@ -2,7 +2,7 @@
 
 I am Marion and on this page you will find some research and programmation projects I made during my schooling. Don't hesitate to have a look around and I hope you can find it useful ! 
 
-#### Programmation repositories : 
+#### Programming repositories : 
 <ul> 
   <li> Little RNN : Training AI architectures to study and control motor execution in paraplegic patients. (yet private but a restricted public version is available)</li>
   <li> Classifying sleep stages with the Start-up Dreem</li>
