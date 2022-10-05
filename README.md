@@ -6,19 +6,19 @@ I am Marion and on this page you will find some research and programmation proje
 
 #### Programmation repositories : 
 <ul> 
-  <li> Little RNN : Training recurrent neural networks to study and control motor execution (yet private)</li>
-  <li> Classifying sleep stages with the Start-up Dream</li>
-  <li> Monitor patient transport activity in a hospital with AI </li>
+  <li> Little RNN : Training AI architectures to study and control motor execution in paraplegic patients. (yet private but a restricted public version is available)</li>
+  <li> Classifying sleep stages with the Start-up Dreem</li>
   <li> Segmentation of white masses using image processing </li>
-  <li> Three High Performance Computing projects</li>
+  <li> Three High Performance Computing projects using CPUs and GPUs</li>
+  <li> Monitor patient transport activity in a hospital with AI </li>
+  
 </ul>
 
 #### Research repositories : 
 <ul>
-  <li> Little RNN : Training recurrent neural networks to study and control motor execution (yet private)</li>
+ <li> Little RNN : Training AI architectures to study and control motor execution in paraplegic patients. (yet private but a restricted public version is available)</li>
   <li> A study of morphometric patterns of brain development in premature infants</li>
-  <li> Paper review </li> 
-  <li> Report on AI ethics </li>
+  <li> Paper/Algorithm reviews and Report on AI ethics </li> 
 </ul> 
 
 <!--
