@@ -2,7 +2,7 @@
 
 Welcome here, on this page you will find some research and programmation projects I made during my schooling and my master's thesis. Don't hesitate to have a look around and I hope you can find it useful ! 
 
-#### Programming repositories : 
+#### <u> Programming repositories : </u> 
 <ul> 
   <li> Little RNN : Training AI architectures to study and control motor execution in paraplegic patients (yet private but a restricted public version is available)</li>
   <li> Classifying sleep stages with the Start-up Dreem</li>
@@ -12,7 +12,7 @@ Welcome here, on this page you will find some research and programmation project
   
 </ul>
 
-#### Research repositories : 
+#### <u> Research repositories : </u>
 <ul>
  <li> Little RNN : Training AI architectures to study and control motor execution in paraplegic patients (yet private but a restricted public version is available)</li>
   <li> A study of morphometric patterns of brain development in premature infants</li>
