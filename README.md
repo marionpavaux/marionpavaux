@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Marion and on this page you will find some research and programmation projects I made during my schooling. Don't hesitate to have a look around and I hope you can find it useful ! 
+Welcome here, on this page you will find some research and programmation projects I made during my schooling and my master's thesis. Don't hesitate to have a look around and I hope you can find it useful ! 
 
 #### Programming repositories : 
 <ul> 
