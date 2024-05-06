@@ -1,6 +1,6 @@
 # About
 
-Welcome here, on this page you will find some research and programming projects I made during my schooling and master's thesis. Have a look around ! 
+Welcome, you will find some research and programming projects I worked on during my undergraduate curriculum and master's thesis. Have a look around! 
 
 ## Repositories
 
